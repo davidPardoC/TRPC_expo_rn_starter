@@ -3,7 +3,7 @@
 ## Things configured
 
 - Monorepo with Turbo and npm workspaces.
-- Expo configured for monorepo en TRPC.
+- Expo configured for monorepo and TRPC.
 - Node.JS server with express and TRPC with TRPC Adapter.
 - Shared tsconfig.
 - Shared Eslint config.
